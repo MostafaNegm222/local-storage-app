@@ -49,7 +49,10 @@ This application provides a simple and interactive interface to manage your brow
 - `deleteAll()`: Clears all data from local storage.
 
 ---
+Demo
+You can see a live demo of the app https://mostafanegm222.github.io/local-storage-app/.
 
+---
 
 ## **Contributing**
 Contributions are welcome! If you’d like to improve the app:
